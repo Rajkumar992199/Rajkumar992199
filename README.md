@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 TPO core committee Head Computer Engineering at Vishwakarma Government Engineering College <br>🔭 I’m currently working on Fruit quality detector project.<br>🤝 I’m looking for Internship opportunity as Front-end developer.<br>🌱 I’m currently learning java, C , Web Development.<br>⚡ Computer Engineering'26 @VGEC.
+🤩 TPO core committee Head of Computer Engineering & Data Science at Vishwakarma Government Engineering College <br>🔭 I’m currently working on Farm Assistant project.<br>🤝 I’m looking for Internship opportunity as Front-end developer.<br>🌱 I’m currently working on C/C++ , Web Development.<br>⚡ Computer Engineering'26 @VGEC.
 
 
 ## 🌐 Socials:
