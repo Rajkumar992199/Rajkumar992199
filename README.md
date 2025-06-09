@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 TPO core committee Head of Computer Engineering & Data Science at Vishwakarma Government Engineering College <br>🔭 I’m currently working on Farm Assistant (IOT) project.<br>🤝 I’m looking for Internship and job opportunity as Front-end developer or Software Engineer.<br>🌱 I’m currently working on C/C++ , Web Development.<br>⚡ Computer Engineering'26 @VGEC.
+🤩 TPO core committee Head of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 400+ problems on Codeforces+HackerRank+Leetcode. <br>⭐ 4 Stars C programmer on HackerRank. <br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO. <br>🔭 I’m currently working on Farm Assistant (IOT) project.<br>🤝 I’m looking for Internship and job opportunity as Front-end developer or Software Engineer.<br>🌱 I’m currently working on C/C++ , Web Development.<br>⚡ Computer Engineering'26 @VGEC.
 
 
 ## 🌐 Socials:
