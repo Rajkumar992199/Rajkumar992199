@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 Former Student TPO of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 450+ problems on Codeforces. <br>⭐ 4 Stars C programmer on HackerRank. <br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
+🤩 Former Student TPO of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 500+ problems on Codeforces. <br>⭐ 4 Stars C programmer on HackerRank. <br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
 
 
 ## 🌐 Socials:
