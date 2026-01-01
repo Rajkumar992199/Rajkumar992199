@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 Former Student TPO of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 650+ problems on Codeforces. Rating:1302. <br>💡 Solved 60+ problems on Leetcode. Rating:1497 <br>⭐ 5 Stars C++ programmer on HackerRank. <br>🤓 Solved 100+ problems on Codechef.<br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
+🤩 Former Student TPO of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 650+ problems on Codeforces. Rating:1162. <br>💡 Solved 70+ problems on Leetcode. Rating:1497 <br>⭐ 5 Stars C++ programmer on HackerRank. <br>🤓 Solved 100+ problems on Codechef.<br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
 
 
 ## 🌐 Socials:
