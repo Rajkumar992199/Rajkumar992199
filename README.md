@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 Upcoming Systems Engineer at TCS (Digital). <br> 🤩 Former TPO coordinator of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 800+ problems on Codeforces. Rating:1187. <br>💡 Solved 90+ problems on Leetcode. Rating:1497 <br>⭐ 5 Stars C++ programmer on HackerRank. <br>🤓 Solved 100+ problems on Codechef.<br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
+🖥 Upcoming Systems Engineer at TCS (Digital). <br> 🤩 Former TPO coordinator of Computer Engineering & Data Science at Vishwakarma Government Engineering College. <br>🧠 Solved 800+ problems on Codeforces. Rating:1190. <br>💡 Solved 100+ problems on Leetcode. Rating:1613 <br>⭐ 5 Stars C++ programmer on HackerRank. <br>🤓 Solved 100+ problems on Codechef.<br>👨🏻‍🏫 Volunteer teacher at Bachhpan NGO.<br>⚡ Computer Engineering'26 @VGEC.
 
 
 ## 🌐 Socials:
